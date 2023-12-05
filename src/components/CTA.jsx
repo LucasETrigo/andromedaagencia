@@ -7,11 +7,10 @@ const CTA = () => (
     >
         <div className='flex-1 flex flex-col'>
             <h2 className={styles.heading2}>
-                Unleash Your Business Potential with Thunkify!
+                Mejora el potencial de tu empresa con Andromeda!
             </h2>
             <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-                Contact us for tailored solutions to skyrocket your operations
-                globally. Let's Talk!
+                Contactanos hoy mismo para marketing!!
             </p>
         </div>
 
